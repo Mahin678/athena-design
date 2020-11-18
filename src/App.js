@@ -1,8 +1,7 @@
-import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-    return <div className = "App" > hello i am lancer abir < /div>
+    return <div className = "App" > new work </div>;
 }
 
 export default App;
