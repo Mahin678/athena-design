@@ -1,4 +1,5 @@
 import React from 'react';
+import OurAchievement from '../HomeSection/OurAchievement/OurAchievement';
 import RunningProject from '../HomeSection/RunningProject/RunningProject';
 import WhatWeDid from '../HomeSection/WhatWeDid/WhatWeDid';
 import './Home.scss';
@@ -10,9 +11,10 @@ const Home = () => {
 				<img
 					className="img-bg-mid"
 					src="https://i.imgur.com/MGML6lP.png"
-					alt=""
+					alt="bg-img-what-we-do"
 				/>
 				<RunningProject />
+				<OurAchievement />
 			</div>
 		</div>
 	);

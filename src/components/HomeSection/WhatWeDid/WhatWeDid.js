@@ -13,7 +13,7 @@ const WhatWeDid = () => {
 				</div>
 				<div className="what-we-do-content my-5 ">
 					<div className="row">
-						<div className="col-md-3 ">
+						<div className="col-sm-12 col-md-6 col-lg-3 ">
 							<div className="what-we-do-object-wrapper">
 								<div className="what-we-dp-img-wrapper">
 									<img
@@ -31,7 +31,7 @@ const WhatWeDid = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-3 ">
+						<div className="col-sm-12 col-md-6 col-lg-3">
 							<div className="what-we-do-object-wrapper">
 								<div className="what-we-dp-img-wrapper">
 									<img
@@ -49,7 +49,7 @@ const WhatWeDid = () => {
 								</div>
 							</div>
 						</div>
-						<div className=" col-md-3 ">
+						<div className="col-sm-12 col-md-6 col-lg-3">
 							<div className="what-we-do-object-wrapper">
 								<div className="what-we-dp-img-wrapper">
 									<img
@@ -67,7 +67,7 @@ const WhatWeDid = () => {
 								</div>
 							</div>
 						</div>
-						<div className="col-md-3  ">
+						<div className="col-sm-12 col-md-6 col-lg-3 ">
 							<div className="what-we-do-object-wrapper">
 								<div className="what-we-dp-img-wrapper">
 									<img
