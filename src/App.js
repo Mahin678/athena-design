@@ -1,12 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
-
+import Home from './components/Home/Home';
+import 'bootstrap/dist/css/bootstrap.css';
 function App() {
+
   return (
     <div className="App">
       <h1>Imran Khan</h1>
-    </div>
-  );
+			<Home />
+		</div>
+	);
+
 }
 
 export default App;

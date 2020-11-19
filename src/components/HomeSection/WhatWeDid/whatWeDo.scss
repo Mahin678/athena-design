@@ -1,0 +1,52 @@
+.what-we-do {
+	background-color: #fafffd;
+	.what-we-do-title {
+		h2 {
+			font-family: 'Yeseva One';
+			font-weight: normal;
+			font-size: 48px;
+			line-height: 100px;
+			text-align: center;
+			color: #0d052e;
+		}
+
+		.what-we-do-text {
+			margin: 0 auto;
+			font-weight: normal;
+			font-size: 16px;
+			line-height: 30px;
+			color: #8d8d8d;
+			width: 500px;
+		}
+	}
+	.what-we-do-content {
+		.what-we-do-object-wrapper {
+			width: 280px;
+			height: 260px;
+			border-radius: 100px 0px;
+			padding: 30px;
+			transition: 0.5s;
+			position: relative;
+			z-index: 999;
+			&:hover {
+				transition: 0.5s;
+				box-shadow: 0px 30px 50px rgba(32, 168, 111, 0.2);
+			}
+			.what-we-dp-img-wrapper {
+				img {
+					width: 65px;
+					height: 65px;
+					margin: 10px;
+				}
+			}
+			p {
+				font-family: Montserrat;
+				font-weight: normal;
+				font-size: 14px;
+				line-height: 25px;
+				text-align: center;
+				color: #8d8d8d;
+			}
+		}
+	}
+}
