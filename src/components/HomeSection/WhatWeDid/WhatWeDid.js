@@ -26,7 +26,7 @@ const WhatWeDid = () => {
 									<h5>Experience Design</h5>
 									<p>
 										The point of using Lorem Ipsum is that it has a
-										more-or-less normal.
+										more-or-less normal .
 									</p>
 								</div>
 							</div>
