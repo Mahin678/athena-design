@@ -1,0 +1,32 @@
+.button {
+    background-image: linear-gradient(45deg, #6cecdd,#07abec);
+    height: 55px;
+    width: 170px;
+    border: none;
+    border-radius: 25px 0px 25px 0px;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 500;
+    display: none;
+}
+.card {
+    margin: auto;
+}
+.card:hover {
+    .button {
+        display: block;
+        margin: auto;
+    }
+    .input1{
+        border: 1px solid white;
+        margin: auto;
+    }
+    border: 2px solid #07abec;
+}
+.input1 {
+    border: none;
+    border-top: 2px solid #6cecdd;
+}
+@media only screen and (max-width: 768px) {
+   
+}

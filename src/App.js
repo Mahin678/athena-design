@@ -1,10 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
+import Home from './component/Home/Home/Home';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Imran Khan</h1>
+    <div>
+     
     </div>
   );
 }
