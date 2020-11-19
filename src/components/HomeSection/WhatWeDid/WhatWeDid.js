@@ -3,7 +3,7 @@ import './whatWeDo.scss';
 const WhatWeDid = () => {
 	return (
 		<section className="what-we-do py-5">
-			<div className="container">
+			<div className="container my-5">
 				<div className="what-we-do-title">
 					<h2>What we do </h2>
 					<p className="what-we-do-text">

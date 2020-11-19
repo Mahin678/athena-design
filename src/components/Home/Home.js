@@ -6,7 +6,7 @@ import './Home.scss';
 const Home = () => {
 	return (
 		<div>
-			<div className="mid-section">
+			<div className="mid-section ">
 				<WhatWeDid />
 				<img
 					className="img-bg-mid"
@@ -14,8 +14,8 @@ const Home = () => {
 					alt="bg-img-what-we-do"
 				/>
 				<RunningProject />
-				<OurAchievement />
 			</div>
+			<OurAchievement />
 		</div>
 	);
 };

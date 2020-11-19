@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Yeseva+One&display=swap');
+body {
+	text-align: center !important;
+	width: 100%;
+}
+@media only screen and (max-width: 768px) {
+	.mid-section .img-bg-mid {
+	}
+}
+@media only screen and (max-width: 600px) {
+	.what-we-do-title {
+		h2 {
+			font-size: 28px !important;
+		}
+	}
+	.running-project-details {
+		h2 {
+			font-size: 28px !important;
+		}
+	}
+	.our-achievement-title {
+		h2 {
+			font-size: 28px !important;
+		}
+	}
+}
