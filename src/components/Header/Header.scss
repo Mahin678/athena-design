@@ -1,0 +1,36 @@
+.navbar-header {
+	position: relative;
+}
+.navbar-bg-img img {
+	position: absolute;
+	top: -80px;
+	left: -15px;
+}
+.nav-link {
+	font-family: Montserrat;
+	font-weight: normal;
+	font-size: 16px;
+	color: #263f44 !important;
+	margin: 0px 10px;
+}
+.navbar-icon {
+	height: 80px;
+	width: 100px;
+}
+.header-content-text img {
+	height: 70px;
+	width: 70px;
+}
+.btn-header-custom {
+	color: white;
+	width: 130px;
+	background: linear-gradient(45deg, #0df1cb, #66cfff);
+	border-radius: 27px 5px;
+}
+.header-text {
+	font-family: 'Montserrat', 'Yeseva One';
+	font-weight: bold;
+	font-size: 80px;
+	text-align: left;
+	color: #0d052e;
+}
