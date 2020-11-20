@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Poppins:wght@300;600;700&family=Yeseva+One&display=swap");
+
+/* font-family: 'Montserrat', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Yeseva One', cursive; */
+
+.dot-bg2 img {
+   position: absolute;
+   left: -60px;
+   top: 50%;
+   height: 70px;
+   width: auto;
+}
+.stu-bg img {
+   position: absolute;
+   bottom: 0;
+   left: -160px;
+   height: auto;
+   width: 585px;
+   overflow: hidden;
+}
+
+/* Header CSS */
+section.header {
+   position: relative;
+   padding-bottom: 135px;
+}
+.header-content {
+   font-size: 13px;
+   color: #8d8d8d;
+   line-height: 24px;
+}
+.header-content h1 {
+   font-size: 70px;
+   font-family: "Yeseva One", cursive;
+   color: #0d052e;
+   line-height: 70px;
+   margin-bottom: 40px;
+}
+.header-content p {
+   margin-bottom: 40px;
+}
+
+.header-image img {
+   width: 565px;
+   height: auto;
+}
